@@ -1,0 +1,28 @@
+bin/
+target
+test-output
+repo
+
+#Ignorar as pastas geradas automaticamente pelo Gradle, que são desnecessárias
+.gradle/
+gradle/
+.resourceCache/
+
+#Ignorar arquivos e pastas do eclipse
+.classpath
+.project
+.settings
+
+#Ignorar arquivos e pastas do netbeans
+nb-configuration.xml
+
+#Ignorar arquivos e pastas do intelliJ
+*.idea
+.idea
+*.iml
+
+#Ignorar arquivos e pastas compactadas
+*.7zip
+*.7z
+*.zip
+*.jar

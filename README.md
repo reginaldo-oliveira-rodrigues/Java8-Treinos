@@ -1,2 +1,2 @@
 # Java8-Treinos
-Alguns códigos de treino do Java 8.
+Repositório de códigos de meus treinos com Java 8.
